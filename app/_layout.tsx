@@ -1,4 +1,5 @@
 import "../global.css";
+import "react-native-get-random-values";
 import { useFonts } from "expo-font";
 import { Stack } from "expo-router";
 import * as SplashScreen from "expo-splash-screen";
